@@ -1,6 +1,6 @@
 # Arabic Mandi
 
-A one-page website for a Yemeni mandi restaurant in Visakhapatnam. I built it as a demo to show restaurant owners what their own site could look like.
+A one-page website for a Yemeni mandi restaurant. I built it as a demo to show restaurant owners what their own site could look like.
 
 Live: https://arabic-mandi.pages.dev
 
